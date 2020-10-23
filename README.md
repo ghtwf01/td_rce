@@ -7,5 +7,8 @@
 - 2013增强版
 
 # 使用教程
+-u参数接路径
+
+-o参数接需要执行的命令
 
 ![image](https://www.ghtwf01.cn/usr/uploads/2020/10/559386574.png)
