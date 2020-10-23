@@ -7,10 +7,6 @@
 - 2013增强版
 
 # 使用教程
--u参数接upload.php路径
+-u参数接路径
 
--i参数接gateway.php路径
-
--o参数是需要执行的系统命令
-
-![image](https://www.ghtwf01.cn/usr/uploads/2020/10/840693755.png)
+![image](https://www.ghtwf01.cn/usr/uploads/2020/10/559386574.png)
